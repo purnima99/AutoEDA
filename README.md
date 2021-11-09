@@ -7,7 +7,7 @@ Web Application developed using Streamlit. More details below.
 * [The Project](#The-Project)
 * [I/O Screenshots](#inputoutput-screenshots)
 * [Tools & Technologies Used](#technologies-and-tools)
-* [Setup](#setup)
+* [Live Link](#live-link)
 * [How to Use this Repo](#how-to-use-this-repo)
 * [Status](#status)
 
@@ -78,6 +78,10 @@ The methodology flow chart -
 * pandas & numpy
 * matplotlib 
 * streamlit
+
+## Live Link - 
+
+Web App Link : https://share.streamlit.io/purnima99/ucs757-autoeda/app.py
 
 ## How to Use this Repo 
 
