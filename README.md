@@ -71,9 +71,6 @@ The methodology flow chart -
 ![Alt Text](./i-o/24.png)
 ![Alt Text](./i-o/25.png)
 ![Alt Text](./i-o/26.png)
-![Alt Text](./i-o/27.png)
-![Alt Text](./i-o/28.png)
-![Alt Text](./i-o/29.png)
 
 ## Technologies and Tools
 * Python 3.x 
