@@ -427,6 +427,8 @@ def main():
 	st.markdown('**2. EDA for Linear Models includes -** generating qqplots, viewing outliers, creating distplots and performing chi square test.')
 	st.markdown('**3. Machine Learning Model Building includes -** train-test data split & the option to build Logistic Regression, Decision Tree, Random Forest, Naive Bayes & XGB Classifier Baseline Machine Learning models.')
 
+	st.info("Sample dataset for testing -" """https://drive.google.com/file/d/1qGFTj18YbEh9Ct5nHkQWiuYh7APwrWj-/view?usp=sharing""")
+  
 	activities = ["General EDA","EDA For Linear Models","Machine Learning Model Building"]	
 	choice = st.sidebar.selectbox("Select Activities",activities)
 
