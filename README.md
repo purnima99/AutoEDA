@@ -79,9 +79,9 @@ The methodology flow chart -
 * matplotlib 
 * streamlit
 
-## Live Link - 
+## Live Link 
 
-Web App Link : https://share.streamlit.io/purnima99/ucs757-autoeda/app.py
+Web App Link: https://share.streamlit.io/purnima99/ucs757-autoeda/app.py
 
 ## How to Use this Repo 
 
