@@ -1,4 +1,4 @@
-# UCS757 Project -AutoEDA
+# AutoEDA
 
 Automated the exploratory data analysis process allowing the user to perform EDA on any dataset of thier choice. Built a user-friendly code free platform for the user.
 Web Application developed using Streamlit. More details below.
