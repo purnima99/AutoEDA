@@ -416,9 +416,9 @@ class Data_Base_Modelling():
 
 # st.image(image, use_column_width=True)   
 def main():
-	st.title("A UCS757 Project - Auto EDA")
+	st.title("Auto Exploratory Data Analysis (EDA)")
 	
-	st.info("This web application is created and maintained by Purnima Lal (101803523)")
+	st.info("This web application is created and maintained by Purnima Lal")
 
 	st.markdown('**Select activity from the side menu**')
 
