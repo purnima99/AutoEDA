@@ -45,7 +45,7 @@ The methodology flow chart -
 ![Alt Text](./AutoEDA.png)
 
 ## Input/Output Screenshots
-![Alt Text](./i-o/01.png)
+![Alt Text](./i-o/01.jpeg)
 ![Alt Text](./i-o/02.png)
 ![Alt Text](./i-o/03.png)
 ![Alt Text](./i-o/04.png)
