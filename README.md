@@ -81,7 +81,7 @@ The methodology flow chart -
 
 ## Live Link 
 
-Web App Link: https://share.streamlit.io/purnima99/ucs757-autoeda/app.py
+Web App Link: https://share.streamlit.io/purnima99/autoeda/app.py
 
 ## How to Use this Repo 
 
