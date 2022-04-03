@@ -87,7 +87,7 @@ Web App Link: https://share.streamlit.io/purnima99/autoeda/app.py
 
 * Clone the repo by running - 
 
-    `git clone https://github.com/purnima99/UCS757-AutoEDA.git`
+    `git clone https://github.com/purnima99/AutoEDA.git`
 
 * Use the command prompt to setup a virtual environment.
 
